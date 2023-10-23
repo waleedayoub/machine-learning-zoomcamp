@@ -87,29 +87,6 @@
 * Homework solution:
   * TODO
 
+[**Midterm Project**](projects.md#midterm-project)
 
-**11. KServe (optional)**
-
-* [Module materials](../../11-kserve)
-* No homework
-
-[**Capstone Project**](projects.md#capstone-1)
-
-* More information: [projects.md](projects.md#capstone-1)
-
-
-[**Capstone Project 2**](projects.md#capstone-2)
-
-* More information: [projects.md](projects.md#capstone-2)
-
-
-**[Article](article.md) (Optional)**
-
-* More information: [article.md](article.md)
-
-
-**Competition**
-
-TBA
-
-Submit your learning in public links [here](https://forms.gle/yBo5rfN1WkSqQ5xj8)
+* More information: [projects.md](projects.md#midterm-project)
